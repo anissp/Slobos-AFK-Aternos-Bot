@@ -9,7 +9,7 @@
     "ip": "aniwass.aternos.me",
     "port": 39140,
     "version": "",
-    "try-creative": 
+    "try-creative": false
   },
   "position": {
     "enabled": true,
