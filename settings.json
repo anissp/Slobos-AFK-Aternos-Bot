@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "1234567899"
     },
     "anti-afk": {
       "enabled": true,
@@ -65,7 +65,7 @@
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": false
   },
   "beds": {
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1525763180033347594/J4ZMILLxggTud1tHFEOhX-jPAgxay-mKIB0bt2HOIji2DpimUVqWUlPAcoWDVdCJHCn9",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
